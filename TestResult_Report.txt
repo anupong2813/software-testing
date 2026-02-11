@@ -1,0 +1,12 @@
+Test Report for: & C:/Users/ADMIN/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/ADMIN/OneDrive/เอกสาร/software testing/HW/test_reader.py"
+Start Test at: 06/02/2026 14:57:33
+--------------------------------------------------
+ID, W, H, Calculated, Expected, Result
+1, 10.0, 5.0, 25.0, 25.0, Pass
+2, 0.0, 10.0, ERROR, ERROR, Pass
+3, 15.0, 10.0, 75.0, 75.0, Pass
+--------------------------------------------------
+End of test at : 06/02/2026 14:57:33
+Number of test : 3
+Number of pass : 3
+Number of fail : 0
