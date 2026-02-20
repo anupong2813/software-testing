@@ -1,9 +1,9 @@
 Tester Name : Anupong
 Test Type : Boundary
-DateTime Generate : 20/02/2026 18:37:48
+DateTime Generate : 20/02/2026 18:42:51
 --------------------------------------------------
 TestCase, W, H, Area
 1, -2.0, 5.0, ERROR
 --------------------------------------------------
-DateTime finish : 20/02/2026 18:37:48
+DateTime finish : 20/02/2026 18:42:51
 Total number of test case : 1

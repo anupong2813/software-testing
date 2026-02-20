@@ -23,8 +23,9 @@ else:
     print("Invalid choice")
     exit()
 
-log_file = "ExecuteLog.txt"
 start_time = datetime.now()
+time_str = start_time.strftime('%Y%m%d_%H%M%S')
+log_file = f"ExecuteLog_{time_str}.txt"
 count = 0
 
 total_cases = int(input(f"Enter number of {test_type} test cases: "))
